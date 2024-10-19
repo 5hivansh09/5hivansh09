@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">🔭 I’m an UnderGrad B.tech (Bachelor of Technology) in Computer Science and Engineering<br><br>🤝 How to reach me: [Email Me](mailto:gwarishivansh09@gmail.com)<br><br> 🌱 I’m currently learning Data Structures and Algorithm (DSA).<br><br>💬 Ask me about Problem Solving, UI/UX Designing, DSA.<br><br>⚡ Fun fact: "Roger that" is what I love to hear</p>
+<p align="left">🔭 I’m an UnderGrad B.tech (Bachelor of Technology) in Computer Science and Engineering<br><br> 🌱 I’m currently learning Data Structures and Algorithm (DSA).<br><br>💬 Ask me about Problem Solving, UI/UX Designing, DSA.<br><br>⚡ Fun fact: "Roger that" is what I love to hear</p>
 
 ###
 
