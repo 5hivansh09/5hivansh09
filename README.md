@@ -1,5 +1,6 @@
 <div align="center">
-  <gif height="150" src="https://pin.it/2oCdRhkoc"  />
+ <img src="[./assets/your-gif.gif](https://pin.it/2VD4GFHOA)" alt="Description of GIF" width="500">
+
 </div>
 
 ###
