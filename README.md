@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="center">-----------------👩‍💻 I like coding and love military aesthetics 🪖-----------------</h3>
+<h3 align="center">---------👩‍💻 I like coding and love military aesthetics 🪖---------</h3>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<h3 align="center">----------------------------🛠 Language and tools 🛠 -----------------------------</h3>
+<h3 align="center">-------------------🛠 Language and tools 🛠 -------------------</h3>
 
 ###
 
